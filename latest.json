@@ -1,11 +1,11 @@
 {
-	"version": "v1.0.3",
+	"version": "v1.0.4",
 	"notes": "Test Update",
-	"pub_date": "2025-01-25T19:17:00Z",
+	"pub_date": "2025-01-25T19:31:00Z",
 	"platforms": {
 		"windows-x86_64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK21jKy9xRWQzZXFWZnFGa3BpU3dGSlAranl0WlJkNnlJTUh2L3lybUJlRGp1a2dJQU5GTDYva1ZKWFB3MmVLR21VNzZHK3pJcWw4ZWhZNGtIVGFsNEtsZit5bnZUUlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3ODMzMjA1CWZpbGU6WmVsdiBDYXNlIE1hbmFnZW1lbnRfMS4wLjNfeDY0X2VuLVVTLm1zaQp1cEpDYktWVVhrRmg0blVoZzgwVnhKSlR2SFZiSUNsRmhYWTZrKzBPRE1GOG0wQmt6YmdYYjVCaUdNRE0vRXM5dWh0QWVFTU82T3p2T1ZJM3FOODZBdz09Cg==",
-			"url": "https://github.com/liamg2810/CaseManagementUpdates/releases/download/v1.0.3/Zelv.Case.Management_1.0.3_x64_en-US.msi"
+			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK21jKy9xRWQzZXNCUk0vcWh6K2xSR2c2ZkFLSGh0dWsydFo4Y2RjRW8xSTl4QkdzN1pNckl4UzlodXRGMnlYdWVuQWxMRVNlK0hVSm51Q094czk4Y3BqM0NBbzdXNWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3ODMzNDY2CWZpbGU6WmVsdiBDYXNlIE1hbmFnZW1lbnRfMS4wLjRfeDY0X2VuLVVTLm1zaQpBM05yUGlaRllLK1g5SzlEbk1EVEdObmJtWWNERWFZUW5oZm9uNUdPRk5KOHpaazJDZ2Zod25QU1FWK1FtSzA2b0lCTTJVTDUzeWlTZVpiUWdNY2REUT09Cg==",
+			"url": "https://github.com/liamg2810/CaseManagementUpdates/releases/download/v1.0.4/Zelv.Case.Management_1.0.4_x64_en-US.msi"
 		}
 	}
 }
