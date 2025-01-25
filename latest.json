@@ -1,11 +1,11 @@
 {
-	"version": "v1.0.3",
+	"version": "v1.0.2",
 	"notes": "Test Update",
 	"pub_date": "2025-01-24T15:49:57Z",
 	"platforms": {
 		"windows-x86_64": {
 			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSK21jKy9xRWQzZXJ5U1NRWWpvZzNNYXBiclFSVFF0bjB1bmhTNmJoTjhNTkN4NVNsOC80Q29Jb01OaFprRlNkNjB1a1JtSHQ1Myt5RzZnUE1vOHppQXVmK0dNZDBtZHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3NzM1NzkzCWZpbGU6WmVsdiBDYXNlIE1hbmFnZW1lbnRfMS4wLjJfeDY0X2VuLVVTLm1zaQpsWlBCRHJZdmRnTlBQR0xGdTlGME5Nd2xxVEVQSisrL3BRdW50cGFLUVlBSVd6YWVQclBWckN1YzRZckdhZ1dSMDdRUHpCb2hLODBqd3lvbE5qYitBUT09Cg==",
-			"url": "https://github.com/username/reponame/releases/download/v1.0.0/app-x64-setup.nsis.zip"
+			"url": "https://github.com/liamg2810/CaseManagementUpdates/releases/download/v1.0.2/Zelv.Case.Management_1.0.2_x64_en-US.msi"
 		}
 	}
 }
